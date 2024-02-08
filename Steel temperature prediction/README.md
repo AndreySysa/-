@@ -1,6 +1,6 @@
 # Улучшение процесса обогащения золота
 
-[HTML]([https://github.com/aq2003/Portfolio/blob/main/Gold%20Recovery/P9_Portfolio.html](https://github.com/AndreySysa/Portfolio/blob/main/Steel%20temperature%20prediction/Steel%20temperature%20prediction.html))     [ipynb](https://github.com/aq2003/Portfolio/blob/main/Gold%20Recovery/P9_Portfolio.ipynb)
+[HTML](https://github.com/AndreySysa/Portfolio/blob/main/Steel%20temperature%20prediction/Steel%20temperature%20prediction.html)     [ipynb](https://github.com/aq2003/Portfolio/blob/main/Gold%20Recovery/P9_Portfolio.ipynb)
 
 ## Описание проекта
 
