@@ -2,6 +2,20 @@
 
 [HTML](https://github.com/AndreySysa/Portfolio/blob/main/Steel%20temperature%20prediction/Steel%20temperature%20prediction.html)     [ipynb](https://github.com/AndreySysa/Portfolio/blob/main/Steel%20temperature%20prediction/Steel%20temperature%20prediction.ipynb)
 
+
+
+
+Это текст с "сноской".[^1]
+
+[^1]: Это текст сноски, который вы хотите добавить.
+
+<!-- ссылки для имитации сносок -->
+[1]: # "Это текст сноски, который вы хотите добавить."
+
+
+
+
+
 Перед нами стояла задача: 
 - для металлургического комбината построить модель, которая предскажет температуру стали.
 ***
