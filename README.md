@@ -3,7 +3,7 @@
 
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.   | [Предсказание температуры стали.](https://github.com/AndreySysa/Portfolio/blob/main/Steel%20temperature%20prediction/Steel%20temperature%20prediction.ipynb)[^1] | Выбор лучшей модели, которая предскажет температуру стали.| python, optuna, numpy, pandas, seaborn, plotly.express, matplotlib.pyplot|
+| 1.   | [Предсказание температуры стали.](https://github.com/AndreySysa/Portfolio/blob/main/Steel%20temperature%20prediction/Steel%20temperature%20prediction.ipynb)[^1] | Выбор лучшей модели, которая предскажет температуру стали.| Python, Optuna, Numpy, Pandas, Seaborn, Plotly, Matplotlib|
 | 2.   | [Определение стоимости автомобилей](https://github.com/AndreySysa/Portfolio/blob/main/Determining%20the%20cost%20of%20cars/Определение%20стоимости%20автомобилей.ipynb)[^2]| Сервис по продаже автомобилей с пробегом  разрабатывает приложение для привлечения новых клиентов. В нём можно быстро узнать рыночную стоимость своего автомобиля. На основе исторические данные необходимо построить модель для определения стоимости автомобиля. |Python, Pandas, lightgbm|
 | 3.   |  |  |  |
 
