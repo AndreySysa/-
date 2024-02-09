@@ -1,19 +1,6 @@
 # Предсказание температуры стали.
 
-[HTML](https://github.com/AndreySysa/Portfolio/blob/main/Steel%20temperature%20prediction/Steel%20temperature%20prediction.html)     [ipynb](https://github.com/AndreySysa/Portfolio/blob/main/Steel%20temperature%20prediction/Steel%20temperature%20prediction.ipynb)
-
-
-
-
-Это текст с "сноской".[^1]
-
-[^1]: Это текст сноски, который вы хотите добавить.
-
-<!-- ссылки для имитации сносок -->
-[1]: # "Это текст сноски, который вы хотите добавить."
-
-
-
+[HTML](https://github.com/AndreySysa/Portfolio/blob/main/Steel%20temperature%20prediction/Steel%20temperature%20prediction.html)     [ipynb](https://github.com/AndreySysa/Portfolio/blob/main/Steel%20temperature%20prediction/Steel%20temperature%20prediction.ipynb)[^1]
 
 
 Перед нами стояла задача: 
@@ -320,11 +307,9 @@ Cоздали объект `KFold` для разделения датасета 
 - - `wire_7`,	`wire_8`,	`wire_9` - проволочные материалы.
 
 Таким образом, наиболее важные признаки для предсказания целевой переменной включают температуру первого измерения, потребление энергии, время обработки, данные о некоторых веществах и проволоке.
-## How to View the Notebook
 
-Для корректного просмотра Jupyter notebook с работающим содержанием, пожалуйста, используйте следующую ссылку:
 
+[^1]:Для корректного просмотра Jupyter notebook с работающим содержанием, пожалуйста, используйте следующую ссылку:
 [nbviewer](https://nbviewer.jupyter.org/github/AndreySysa/Portfolio/blob/main/Steel%20temperature%20prediction/Steel%20temperature%20prediction.ipynb)
-
 Просто кликните на ссылку, и nbviewer отобразит notebook с интерактивными ссылками.
 
