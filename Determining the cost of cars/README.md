@@ -28,7 +28,7 @@
 ***
 **Вывод:**
 ***
-- Модель **LGBMRegressor(bagging_fraction=0.3, feature_fraction=0.5, learning_rate=0.2, min_child_samples=45, n_estimators=99, num_leaves=128, reg_alpha=0.5, reg_lambda=1.0, random_state=RANDOM, n_jobs=-1)** предсказывает точнее, чем простая модель DummyRegressor() и работает быстро.
+- Модель **LGBMRegressor(bagging_fraction=0.3, feature_fraction=0.5, learning_rate=0.2, min_child_samples=45, n_estimators=99, num_leaves=128, reg_alpha=0.5, reg_lambda=1.0, random_state=12345, n_jobs=-1)** предсказывает точнее, чем простая модель DummyRegressor() и работает быстро.
 - Выбранная модель соответствует критериям, которые важны заказчику.
 
 
