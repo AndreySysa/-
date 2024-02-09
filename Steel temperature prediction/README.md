@@ -1,7 +1,5 @@
 # Предсказание температуры стали.
 
-[HTML](https://github.com/AndreySysa/Portfolio/blob/main/Steel%20temperature%20prediction/Steel%20temperature%20prediction.html) 
-
 [ipynb](https://github.com/AndreySysa/Portfolio/blob/main/Steel%20temperature%20prediction/Steel%20temperature%20prediction.ipynb)[^1]
 
 
