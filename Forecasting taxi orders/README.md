@@ -30,5 +30,5 @@
 
 
 [^1]:Для корректного просмотра Jupyter notebook с работающим содержанием, пожалуйста, используйте следующую ссылку:
-[Прогнозирование количества заказов такси на следующий час](https://nbviewer.jupyter.org/github/AndreySysa/Portfolio/blob/main/https://github.com/AndreySysa/Portfolio/blob/main/Forecasting%20taxi%20orders/Прогнозирование%20количества%20заказов%20такси%20на%20следующий%20час.ipynb)
+[Прогнозирование количества заказов такси на следующий час](https://nbviewer.jupyter.org/github/AndreySysa/Portfolio/blob/main/Forecasting%20taxi%20orders/Прогнозирование%20количества%20заказов%20такси%20на%20следующий%20час.ipynb)
 Просто кликните на ссылку, и nbviewer отобразит notebook с интерактивными ссылками.
