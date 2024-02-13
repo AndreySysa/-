@@ -33,5 +33,5 @@
 
 
 [^1]:Для корректного просмотра Jupyter notebook с работающим содержанием, пожалуйста, используйте следующую ссылку:
-[nbviewer](https://nbviewer.jupyter.org/github/AndreySysa/Portfolio/blob/main/Determining%20the%20cost%20of%20cars/Определение%20стоимости%20автомобилей.ipynb)
+[Определение стоимости автомобилей](https://nbviewer.jupyter.org/github/AndreySysa/Portfolio/blob/main/Determining%20the%20cost%20of%20cars/Определение%20стоимости%20автомобилей.ipynb)
 Просто кликните на ссылку, и nbviewer отобразит notebook с интерактивными ссылками.
