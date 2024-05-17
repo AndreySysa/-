@@ -10,7 +10,7 @@
 "домашние проекты"
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.   | [Прогнозирование стоимости автомобиля на основе его VIN](https://github.com/AndreySysa/Portfolio/blob/main/Predicting%20the%20value%20of%20a%20car%20based%20on%20its%20VIN/Определение%20стоимости%20автомобиля%20по%20VIN.ipynb)[^4]|На основании предоставленных данных (текстовый файл с VIN-кодом и ценой) нужно создать приложение, которое по VIN порекомендует стоимость этого автомобиля.|Python, Pandas, Scikit-learn, Catboost, Joblib, Lightgbm, Matplotlib, Numpy, Optuna, Phik, Seaborn|
+| 1.   | [Прогнозирование стоимости автомобиля на основе его VIN](https://github.com/AndreySysa/Portfolio/tree/main/Predicting%20the%20value%20of%20a%20car%20based%20on%20its%20VIN)[^4]|На основании предоставленных данных (текстовый файл с VIN-кодом и ценой) нужно создать приложение, которое по VIN порекомендует стоимость этого автомобиля.|Python, Pandas, Scikit-learn, Catboost, Joblib, Lightgbm, Matplotlib, Numpy, Optuna, Phik, Seaborn|
 
 [^1]:Для корректного просмотра Jupyter notebook с работающим содержанием, пожалуйста, используйте следующую ссылку:
 [Предсказание температуры стали](https://nbviewer.jupyter.org/github/AndreySysa/Portfolio/blob/main/Steel%20temperature%20prediction/Steel%20temperature%20prediction.ipynb)
