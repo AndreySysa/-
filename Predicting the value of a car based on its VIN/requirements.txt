@@ -1,0 +1,10 @@
+catboost==1.0.3
+joblib==1.1.0
+lightgbm==3.3.1
+matplotlib==3.3.4
+numpy==1.21.1
+optuna==3.6.1
+pandas==1.2.4
+phik==0.12.4
+scikit-learn==0.24.1
+seaborn==0.11.1
